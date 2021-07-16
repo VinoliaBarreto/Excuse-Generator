@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  background-color: rgb(220, 220, 248);
+}
+.excuses {
+  background-color: rgb(202, 202, 247);
+  border-radius: 5px;
+}
